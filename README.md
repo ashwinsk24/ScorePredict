@@ -1,2 +1,1 @@
-# CricketScorePredict
-IPL Score Predicting
+
